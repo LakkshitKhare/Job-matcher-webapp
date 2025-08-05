@@ -26,11 +26,6 @@ A full-stack MVP project that helps users find the most relevant job listings an
 
 ---
 
-## 🖼️ Demo
-
-<img src="https://your-demo-screenshot-link.com/app-demo.png" alt="App Demo" width="600"/>
-
----
 
 ## 🧰 Tech Stack
 
@@ -93,6 +88,3 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 Built with 💙 by [Lakkshit Khare](https://github.com/LakkshitKhare)
 LinkedIn: [linkedin.com/in/lakkshitkhare](https://linkedin.com/in/lakkshitkhare)
-
-```
-
