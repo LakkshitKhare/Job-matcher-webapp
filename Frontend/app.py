@@ -79,7 +79,7 @@ if st.button("🚀 Generate Custom CV & Find Jobs", type="primary"):
         with st.spinner("🔄 Processing your resume and finding jobs..."):
             try:
                 response = requests.post(
-                    "https://job-matcher-backend.onrender.com/match-and-generate/",
+                    "https://jobmatcher-backend.onrender.com/match-and-generate/",
                     files={"resume": resume_file},
                     data={"job_role": job_role, "job_location": job_location},
                 )
