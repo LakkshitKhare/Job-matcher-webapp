@@ -3,7 +3,7 @@
 
 A full-stack MVP project that helps users find the most relevant job listings and generate tailored CV summaries — powered by AI and your resume.
 
-[🔗 Live Demo (Streamlit)](https://job-matcher-webapp.onrender.com)  
+[🔗 Live Demo (Streamlit)](https://job-matcher-webapp-khare.streamlit.app/)
 [🧪 API Docs (FastAPI backend)](https://job-matcher-webapp.onrender.com/docs)
 
 ## 🚀 Features
@@ -88,3 +88,4 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 Built with 💙 by [Lakkshit Khare](https://github.com/LakkshitKhare)
 LinkedIn: [linkedin.com/in/lakkshitkhare](https://linkedin.com/in/lakkshitkhare)
+
