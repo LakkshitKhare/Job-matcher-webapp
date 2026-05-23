@@ -3,7 +3,7 @@
 
 A full-stack MVP project that helps users find the most relevant job listings and generate tailored CV summaries — powered by AI and your resume.
 
-[🔗 Live Demo (Streamlit)](https://job-matcher-webapp-khare.streamlit.app/)
+[🔗 Live Demo (Streamlit)](https://job-matcher-webapp-lakku.streamlit.app/)
 [🧪 API Docs (FastAPI backend)](https://job-matcher-webapp.onrender.com/docs)
 
 ## 🚀 Features
