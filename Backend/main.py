@@ -17,8 +17,8 @@ app.add_middleware(
 )
 
 # API Keys
-JSEARCH_API_KEY = os.getenv("JSEARCH_API_KEY") or "3dcc80e597mshcee82adce8002f7p1d6e5fjsn6f7270cd439e"
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY") or "AIzaSyCOvZmYDqGP1CiIgvn7RqFWFYOwUNplAyw"
+JSEARCH_API_KEY = os.getenv("JSEARCH_API_KEY") 
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY") 
 
 def extract_text_from_resume(uploaded_file: UploadFile) -> str:
     try:
